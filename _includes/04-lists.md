@@ -1,5 +1,4 @@
 ## Favorites 💖
-- Programing
-- Flutter
-- Dart Lang
-- Java & Kotlin
+- Walking
+- Swiming
+- Watching Youtube
