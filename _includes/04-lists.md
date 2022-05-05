@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## Favorites 💖
+- Programing
+- Flutter
+- Dart Lang
+- Java & Kotlin
