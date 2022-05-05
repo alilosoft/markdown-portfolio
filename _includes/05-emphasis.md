@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm ali, a software developer intern, learning to build **awsome** sowftware and writing **clean code**, my favorite languages are *Java, Kotlin, Dart & JavaScript*, and planning to add **Rust**
+
+I'm currently learning web developemnt with [البنيان المرصوص](https://www.linkedin.com/company/%D9%83%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5/?miniCompanyUrn=urn%3Ali%3Afs_miniCompany%3A79892610&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BpBeNQw3HRnKpA2cs9SGNPA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_detail_base-actor_container&lici=6JHY0repSPeF1EbMjoTL1A%3D%3D)    
